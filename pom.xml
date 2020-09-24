@@ -24,7 +24,7 @@
     <java.version>1.8</java.version>
     <jocl-blast.version>1.3.0</jocl-blast.version>
     <saphir-hash.version>3.0.3</saphir-hash.version>
-    <bcprov-jdk15on.version>1.59</bcprov-jdk15on.version>
+    <bcprov-jdk15on.version>1.66</bcprov-jdk15on.version>
 
     <!-- only needed for older gpu -->
     <!--<jocl.version>0.1.9</jocl.version>-->
